@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterloveprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="peterloveprogramming" /> </p>
 
-- 🌱 I’m currently learning **Complete Python Developer in 2023 offered by Zero to Mastery**
+- 🌱 I’m currently preparing for the AWS Certified Developer - Associate Certification Exam
 
 - 👨‍💻 All of my projects are available at [https://github.com/Peterloveprogramming](https://github.com/Peterloveprogramming)
 
