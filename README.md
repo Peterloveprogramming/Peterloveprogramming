@@ -1,6 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
 <h1 align="center">Hi 👋, I'm Peter Yan</h1>
-<h3 align="center">I am a certified full-stack developer with in-depth knowledge of JavaScript and Python.</h3>
+<h3 align="center">I am full-stack developer with in-depth knowledge of JavaScript, and AWS. 
+I currently hold the AWS Cloud Practitioner certification as well as the AWS Solutions Architect - Associate certification </h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterloveprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="peterloveprogramming" /> </p>
 
