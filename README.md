@@ -1,16 +1,17 @@
 [![MasterHead](https://camo.githubusercontent.com/0177efce0facdd611719dbe1e94af2a1ddbd2ac0e78304f97608a6a3b25c765a/68747470733a2f2f7777772e63617265657267756964652e636f6d2f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f67697068792d372e676966)
-<h1 align="center">Hi 👋, I'm Peter</h1>
+<h1 align="center">Hi 👋, I'm Ziming</h1>
 <h3 align="center">I am full-stack developer with in-depth knowledge of JavaScript,Python,PHP and AWS.  </h3>
 <h4>I currently hold the following certifications:</h4>
 <ul>
   <li>Amazon Web Service Cloud Practitioner</li>
   <li>AWS Certified Solutions Architect - Associate</li>
   <li>AWS Certified Developer - Associate</li>
+  <li>Google Certified IT Support</li>
 </ul>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterloveprogramming&label=Profile%20views&color=0e75b6&style=flat" alt="peterloveprogramming" /> </p>
 
-- 🌱 I’m currently preparing for the AWS Certified Developer - Associate Certification Exam
+- 🌱 I’m currently learning VueJS and Laravel for my upcomming project.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Peterloveprogramming](https://github.com/Peterloveprogramming)
 
